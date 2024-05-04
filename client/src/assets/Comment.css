@@ -1,0 +1,16 @@
+.msg-box {
+    margin: 10px;
+    border:1px solid aqua;
+    padding: 5px;
+}
+
+.cmt-box {
+    display: flex;
+    padding: 5px;
+}
+
+.post-box {
+    border: 1px solid white;
+    margin: 10px;
+    padding: 5px;
+}
